@@ -1,5 +1,5 @@
 # Entrada de datos
-consulta = input("Ingrese nombre de la pelicula o serie: ").lower
+consulta = input("Ingrese nombre de la pelicula o serie: ").lower()
 
 # Verificacion de casos
 match consulta:
