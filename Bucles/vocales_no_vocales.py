@@ -10,4 +10,4 @@ while True:
         print("Vocal")
     else:
         print("Consonante")
-    print("Programa finalizado")
+print("Programa finalizado")
